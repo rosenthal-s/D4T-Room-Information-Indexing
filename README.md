@@ -1,0 +1,4 @@
+Freelance work performed for D4T Consulting to index hotel room information. It takes a list of hotel rooms and their various features, including when one room is stored with different names within different sources, and produces a csv table with one entry per room type that lists the properties and all potential names.
+
+I was originally hired in May 2019 to create two versions of the program which output the data in two different formats. A year later, I produced another version which simplified which data points were included in the output. In 2021, I made a third version which added some new data points not present in the original. I have also periodically made fixes and changes to the code as errors arose.
+This is a new version produced in June 2024, which adds some further data points to the output. I also took the opportunity to tidy up my code using principles I have since learned in my studies and in the industry.
